@@ -1,2 +1,2 @@
-# ACA2021-Example
+# Kai Xiao
 An Example for Academic Writing, Norms, and Ethics
